@@ -1,4 +1,4 @@
-# 👋 Velkommen / Welcome
+# 👋 Velkommen
 
 Hei, jeg er Eirik 👋
 
