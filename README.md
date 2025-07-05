@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Velkommen / Welcome
 
-<!--
-**eflacke-im/eflacke-im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hei, jeg er Eirik 👋
 
-Here are some ideas to get you started:
+Velkommen til GitHub-profilen min! Jeg er lærer i informasjonsteknologi og medieproduksjon på Gjennestad videregående skole, der jeg underviser elever i grunnleggende IT, programmering og digitale medier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Om meg**
+- Lærer ved Gjennestad VGS.
+- Brenner for å gjøre teknologi forståelig og spennende for ungdom.
+- Jobber ved siden av som IT-konsulent med dataplattform.
+- Har erfaring med SQL, Python, HTML/CSS, Git.
+
+👨‍🏫 **Hva finner du her?**
+- Kodeeksempler og undervisningsopplegg for elever.
+- Repositories til bruk i klasserommet.
+- Prosjekter og ressurser relatert til IT og medieproduksjon.
+
+🚀 **Mål**
+- Skape et inspirerende læringsmiljø for elevene mine.
+- Dele ressurser som kan hjelpe andre lærere eller elever.
+
+📫 **Kontakt**
+- 📧 eirik@gjennestadvgs.no
+- 💼 [gjennestadvgs.no](https://www.gjennestadvgs.no)
+
+Takk for at du besøker profilen min! 😊
